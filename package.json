@@ -1,0 +1,35 @@
+{
+  "name": "cordova-plugin-baidu-location",
+  "version": "1.0.0",
+  "description": "A cordova plugin, a JS version of baidu location SDK",
+  "cordova": {
+    "id": "cordova-plugin-baidu-location",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fami2u/baidu-location-android.git"
+  },
+  "keywords": [
+    "cordova",
+    "android",
+    "baidu",
+    "location",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ],
+  "author": "sunhannan <sunhannan@fami2u.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fami2u/baidu-location-android/issues"
+  },
+  "homepage": "https://github.com/fami2u/baidu-location-android#readme"
+}
